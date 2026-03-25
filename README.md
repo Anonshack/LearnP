@@ -1,6 +1,4 @@
-# LearnP: Open source learning management system
-_Documentation is under development_
-## Current features
+
 
 - Dashboard: School demographics and analytics. Restricted to only admins
 - News And Events: All users can access this page
@@ -29,20 +27,11 @@ _Documentation is under development_
 - Pass marks can be set
 - Multiple choice question type
 - True/False question type
-- Essay question type................._Coming soon_
 - Custom message displayed for those that pass or fail a quiz
 - Custom permission (view_sittings) added, allowing users with that permission to view quiz results from users
 - A marking page which lists completed quizzes, can be filtered by quiz or user, and is used to mark essay questions
 
-# Quick note for future contributors
-# Requirements:
-
-> The following program(s) are required to run the project
-
-- [Python3.8+](https://www.python.org/downloads/)
-
 # Installation
-
 - Clone the repo with
 
 ```bash
@@ -71,4 +60,4 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-Last but not least, go to this address http://127.0.0.1:8000
+Kudratbek Anonshack
